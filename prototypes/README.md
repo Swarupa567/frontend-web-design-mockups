@@ -1,4 +1,6 @@
 ### 1. Added ProgressCard Component from UI openSource Library - https://www.uidesigndaily.com/posts/progress (Figma Design)
+<img width="532" alt="image" src="https://github.com/Swarupa567/frontend-web-design-mockups/assets/22514881/fb39b913-efdc-4a75-8b46-3a3a153b6cf2">
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
