@@ -1,4 +1,4 @@
-### 1. Added ProgressCard Component from UI opneSource Library - https://www.uidesigndaily.com/posts/progress(Figma Design)
+### 1. Added ProgressCard Component from UI opneSource Library - https://www.uidesigndaily.com/posts/progress (Figma Design)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
