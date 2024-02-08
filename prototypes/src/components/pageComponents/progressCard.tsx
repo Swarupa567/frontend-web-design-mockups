@@ -14,10 +14,10 @@ const ProgressCard = () => {
             </CardHeader>
             <CardContent className=" pl-8 font-roboto">
                 <CardDescription className='flex justify-between items-start text-[#000]'>
-                    <div className='w-16 h-16 border-4 border-solid border-[#D5D4F0] rounded-full flex items-center justify-center font-bold'>93%</div>
+                    <div className='w-16 h-16 border-4 border-solid border-[#D5D4F0] rounded-full flex items-center justify-center font-bold text-[18px]'>93%</div>
                     <div className='pl-[18px] pt-[12px]'>
-                    <p className='font-semibold'>32 of 42 complete</p>
-                    <p>Finish course</p>
+                    <p className='font-bold'>32 of 42 complete</p>
+                    <p className='font-medium text-[14px]'>Finish course</p>
                     </div>
                
                     </CardDescription>
